@@ -19,5 +19,8 @@
 ## view.ts
 - viewを作成する
 
+## e.g.)
 
-
+```
+yarn ts-node-transpile-only merge_daily_data.ts
+```
